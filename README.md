@@ -9,12 +9,12 @@
 
 
 ### My Tech Stack
-<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Deep Learning-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Computer Vision-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-OpenCv-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-NLP-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Power BI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Computer Vision-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-OpenCv-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-NLP-lightblue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Power BI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-red?style=for-the-badge">
 <br>
 
 
 ### Connect with me!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhananjaybamane/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bams.here/) [<img src = "https://img.shields.io/badge/MEDIUM-lightgrey?style=for-the-badge&logo=medium&logoColor=white">](https://dhananjaybamane.medium.com/) [<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/dhananjaybamane)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhananjaybamane/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bams.here/) [<img src = "https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=white">](https://dhananjaybamane.medium.com/) [<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/dhananjaybamane)
 
 
 <!--
