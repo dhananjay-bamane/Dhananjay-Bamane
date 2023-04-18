@@ -2,10 +2,10 @@
 
 <h3>About Me</h3>
 
-🎓I’m a Software Developer and I have completed my Bachelor of Science in Information Technology.
-👨‍💻 Passionate about Development, Data Science, Machine Learning and & I enjoy learning new things.
-🌱 Currently pursing Master's in Data Science & Big Data Analytics
-📫 Reach me at shahabhay941@gmail.com
+🎓 I’m a Software Developer and I have completed my Bachelor of Science in Computer Science. <br>
+👨‍💻 Passionate about Development, Data Science, Machine Learning and & I enjoy learning new things. <br>
+🌱 Currently pursing Master of Science in Data Science & Big Data Analytics. <br>
+📫 Reach me at dhananjaybamane03@gmail.com <br>
 
 
 
