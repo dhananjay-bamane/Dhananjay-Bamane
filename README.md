@@ -8,7 +8,9 @@
 📫 Reach me at dhananjaybamane03@gmail.com <br>
 
 
-
+### My Tech Stack
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Deep Learning-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Computer Vision-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-OpenCv-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-NLP-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Power BI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-red?style=for-the-badge">
+<br>
 
 
 
