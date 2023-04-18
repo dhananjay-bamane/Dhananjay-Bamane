@@ -13,6 +13,9 @@
 <br>
 
 
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhananjaybamane/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bams.here/) [<img src = "https://img.shields.io/badge/MEDIUM-lightgrey?style=for-the-badge&logo=medium&logoColor=white">](https://dhananjaybamane.medium.com/) [<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/dhananjaybamane)
+
 
 <!--
 **dhananjay-bamane/Dhananjay-Bamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
