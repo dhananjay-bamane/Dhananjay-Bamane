@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 
 🎓 I’m a Developer and I have completed my Bachelor of Science in Computer Science. <br>
-👨‍💻 Passionate about Development, Data Science, Machine Learning and & I enjoy learning new things. <br>
+👨‍💻 Passionate about Development, Data Science, Machine Learning & I enjoy learning new things. <br>
 🌱 Currently pursing Master of Science in Data Science & Big Data Analytics. <br>
 📫 Reach me at dhananjaybamane03@gmail.com <br>
 
